@@ -20,3 +20,8 @@ Periodically check the manuscript state in the scholar one system and send email
 
 ## How to use
 python scholarone_status_checker_new.py
+
+
+## Reference
+
+https://github.com/krishnakumarg1984/ScholarOne_status_checker
